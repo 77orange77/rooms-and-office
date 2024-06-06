@@ -1,0 +1,18 @@
+C:\Users\29407103\source\repos\Roomlibrary\bin\Debug\Roomlibrary.dll
+C:\Users\29407103\source\repos\Roomlibrary\bin\Debug\Roomlibrary.pdb
+C:\Users\29407103\source\repos\Roomlibrary\obj\Debug\Roomlibrary.csproj.AssemblyReference.cache
+C:\Users\29407103\source\repos\Roomlibrary\obj\Debug\Roomlibrary.csproj.CoreCompileInputs.cache
+C:\Users\29407103\source\repos\Roomlibrary\obj\Debug\Roomlibrary.dll
+C:\Users\29407103\source\repos\Roomlibrary\obj\Debug\Roomlibrary.pdb
+C:\Users\yaros\source\repos\Roomlibrary\bin\Debug\Roomlibrary.dll
+C:\Users\yaros\source\repos\Roomlibrary\bin\Debug\Roomlibrary.pdb
+C:\Users\yaros\source\repos\Roomlibrary\obj\Debug\Roomlibrary.csproj.AssemblyReference.cache
+C:\Users\yaros\source\repos\Roomlibrary\obj\Debug\Roomlibrary.csproj.CoreCompileInputs.cache
+C:\Users\yaros\source\repos\Roomlibrary\obj\Debug\Roomlibrary.dll
+C:\Users\yaros\source\repos\Roomlibrary\obj\Debug\Roomlibrary.pdb
+C:\Users\yaros\source\repos\Roomlibrary (office)\bin\Debug\Roomlibrary.dll
+C:\Users\yaros\source\repos\Roomlibrary (office)\bin\Debug\Roomlibrary.pdb
+C:\Users\yaros\source\repos\Roomlibrary (office)\obj\Debug\Roomlibrary.csproj.AssemblyReference.cache
+C:\Users\yaros\source\repos\Roomlibrary (office)\obj\Debug\Roomlibrary.csproj.CoreCompileInputs.cache
+C:\Users\yaros\source\repos\Roomlibrary (office)\obj\Debug\Roomlibrary.dll
+C:\Users\yaros\source\repos\Roomlibrary (office)\obj\Debug\Roomlibrary.pdb
